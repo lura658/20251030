@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#quiz-container {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: white;
+}
+
+/* 隱藏預設的滑鼠游標，以便 p5.js 繪製自定義游標 */
+canvas {
+    cursor: none; 
+}
+
+/* 確保畫布在容器內 */
+canvas {
+    display: block;
+}

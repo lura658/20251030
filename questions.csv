@@ -1,0 +1,6 @@
+question,optionA,optionB,optionC,correctAnswer
+「Hello」是什麼意思？,你好,再見,謝謝,A
+「p5.js」是用什麼語言寫的？,Python,JavaScript,Java,B
+以下哪個是p5.js的基本函數？,main,draw,start,B
+哪個函數用於在p5.js中載入檔案？,loadFile,loadData,loadTable,C
+在p5.js中，什麼是`preload()`的作用？,處理輸入,載入資源,繪製圖形,B
